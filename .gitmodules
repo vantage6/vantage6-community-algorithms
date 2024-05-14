@@ -1,0 +1,3 @@
+[submodule "v6-crosstab-py"]
+	path = v6-crosstab-py
+	url = https://github.com/vantage6/v6-crosstab-py
