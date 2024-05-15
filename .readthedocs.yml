@@ -14,8 +14,7 @@ python:
     - requirements: requirements.txt
 
 submodules:
-  include:
-    - all
+  include: all
 
 # Build the docs in all formats (html, pdf, epub, etc.)
 formats: all
