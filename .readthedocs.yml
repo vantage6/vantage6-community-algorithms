@@ -1,0 +1,21 @@
+# readthedocs configuration file version
+version: 2
+
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.10"
+  apt_packages:
+    - default-jdk
+    - graphviz
+
+python:
+  install:
+    - requirements: requirements.txt
+
+submodules:
+  include:
+    - all
+
+# Build the docs in all formats (html, pdf, epub, etc.)
+formats: all
