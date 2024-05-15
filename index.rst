@@ -5,6 +5,6 @@ Vantage6 community algorithms are documented here. Click on the links below to v
 the documentation of each specific algorithm.
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     v6-crosstab-py/docs/index

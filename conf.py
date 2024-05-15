@@ -47,7 +47,14 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "furo"
-html_static_path = ["_static"]
+html_static_path = ["static"]
+html_theme_options = {
+    "sidebar_hide_name": True,
+    "navigation_with_keys": True,
+    "light_logo": "logo-240x80.png",
+    "dark_logo": "logo-240x80-white.png",
+}
+html_favicon = "static/logo.png"
 
 master_doc = "index"
 
