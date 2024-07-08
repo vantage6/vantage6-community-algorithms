@@ -16,7 +16,7 @@ import os
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "v6-crosstab-py"
+project = "vantage6 community algorithms"
 copyright = ""
 author = "B. van Beusekom, H. Alradhi, F.C. Martin"
 
