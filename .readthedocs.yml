@@ -13,6 +13,9 @@ python:
   install:
     - requirements: requirements.txt
 
+sphinx:
+  configuration: conf.py
+
 submodules:
   include:
     - v6-crosstab-py
