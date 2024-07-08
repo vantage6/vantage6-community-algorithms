@@ -8,3 +8,4 @@ the documentation of each specific algorithm.
     :maxdepth: 1
 
     v6-crosstab-py/docs/index
+    v6-kaplan-meier-py/docs/index
