@@ -15,7 +15,7 @@ python:
 
 submodules:
   include:
-    - v6-crosstabs-py
+    - v6-crosstab-py
 
 # Build the docs in all formats (html, pdf, epub, etc.)
 formats: all
