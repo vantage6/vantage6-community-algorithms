@@ -17,8 +17,7 @@ sphinx:
   configuration: conf.py
 
 submodules:
-  include:
-    - v6-crosstab-py
+  include: all
 
 # Build the docs in all formats (html, pdf, epub, etc.)
 formats: all
