@@ -3,4 +3,4 @@
 	url = https://github.com/vantage6/v6-crosstab-py
 [submodule "v6-kaplan-meier-py"]
 	path = v6-kaplan-meier-py
-	url = git@github.com:vantage6/v6-kaplan-meier-py.git
+	url = https://github.com/vantage6/v6-kaplan-meier-py.git
