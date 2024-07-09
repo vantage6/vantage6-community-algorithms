@@ -63,3 +63,10 @@ add_module_names = False
 pygments_style = None
 
 numfig = False
+
+
+plantuml_output_format = "svg_img"
+local_plantuml_path = os.path.join(
+    os.path.dirname(__file__), "static", "java", "plantuml.jar"
+)
+plantuml = f"java -Djava.awt.headless=true -jar {local_plantuml_path}"
