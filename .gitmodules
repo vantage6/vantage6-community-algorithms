@@ -4,3 +4,6 @@
 [submodule "v6-kaplan-meier-py"]
 	path = v6-kaplan-meier-py
 	url = https://github.com/vantage6/v6-kaplan-meier-py.git
+[submodule "v6-summary-py"]
+	path = v6-summary-py
+	url = https://github.com/vantage6/v6-summary-py
