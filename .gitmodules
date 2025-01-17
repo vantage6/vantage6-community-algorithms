@@ -7,3 +7,6 @@
 [submodule "v6-summary-py"]
 	path = v6-summary-py
 	url = https://github.com/vantage6/v6-summary-py
+[submodule "v6-glm-py"]
+	path = v6-glm-py
+	url = https://github.com/vantage6/v6-glm-py

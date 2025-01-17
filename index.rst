@@ -10,3 +10,4 @@ the documentation of each specific algorithm.
     v6-crosstab-py/docs/index
     v6-kaplan-meier-py/docs/index
     v6-summary-py/docs/index
+    v6-glm-py/docs/index
