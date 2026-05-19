@@ -11,3 +11,5 @@ the documentation of each specific algorithm.
     v6-kaplan-meier-py/docs/index
     v6-summary-py/docs/index
     v6-glm-py/docs/index
+    v6-extract-basics-py/docs/index
+    v6-preprocess-basics-py/docs/index
