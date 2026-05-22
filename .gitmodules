@@ -13,3 +13,6 @@
 [submodule "v6-extract-basics-py"]
 	path = v6-extract-basics-py
 	url = https://github.com/vantage6/v6-extract-basics-py
+[submodule "v6-preprocess-basics-py"]
+	path = v6-preprocess-basics-py
+	url = https://github.com/vantage6/v6-preprocess-basics-py
